@@ -1,0 +1,16 @@
+baseurl: ""
+title: Data-Adventurer.com
+description: "Exploring the Wonderful World of Data with Sadukie"
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-feed
+
+defaults:
+ -
+  scope:
+    path: ""
+    type: "posts"
+  values:
+    layout: "post"
+    author: "sadukie"
