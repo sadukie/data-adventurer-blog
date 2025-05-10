@@ -1,0 +1,15 @@
+<h2>Recent Posts</h2>
+<ul>
+    {% for post in include.posts limit:10 %}
+        {% if page.url contains "http" %}
+        {% assign domain = '' %}
+        {% elsif page.url contains "mailto" %}
+            {% assign domain = '' %}
+        {% else %}
+            {% assign domain = site.url | append: site.baseurl %}
+        {% endif %}
+        <li>
+            {{ post.date | date: "%Y-%m-%d" }} - <a href="{{domain}}{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+</ul>

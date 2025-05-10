@@ -1,0 +1,15 @@
+<h2>Authors</h2>
+<ul>
+    {% for author in site.authors %}
+      <li>
+        {% if page.url contains "http" %}
+        {% assign domain = '' %}
+        {% elsif page.url contains "mailto" %}
+            {% assign domain = '' %}
+        {% else %}
+            {% assign domain = site.url | append: site.baseurl %}
+        {% endif %}
+        <a href="{{domain}}{{ author.url }}">{{ author.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>

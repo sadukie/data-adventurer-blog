@@ -1,0 +1,8 @@
+<h2 class="post-title">{{ page.title }}</h2>
+<small>{{page.date | date: "%B %-d, %Y"}}</small>
+{% if page.tags %}
+  <br /><small>Tags: </small>
+  {% for tag in page.tags %}
+    <small>{{ tag }}{% unless forloop.last %}, {% endunless %}</small>
+  {% endfor %}
+{% endif %}
