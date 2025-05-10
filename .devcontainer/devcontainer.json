@@ -1,8 +1,8 @@
 // See https://containers.dev/implementors/json_reference/ for configuration reference
 {
-	"name": "sadukie blog",
+	"name": "Data Adventurer blog",
 	"dockerFile": "dockerFile",
     "forwardPorts": [4000, 35729],    
-    "runArgs": ["--name","sadukie_blog"],
+    "runArgs": ["--name","data_adventurer_blog"],
     "postStartCommand": "bundle install && bundle exec jekyll serve --baseurl='' --livereload --force_polling"
 }
