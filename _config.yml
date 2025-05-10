@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "/data-adventurer-blog"
 title: Data-Adventurer.com
 description: "Exploring the Wonderful World of Data with Sadukie"
 remote_theme: pages-themes/architect@v0.2.0
