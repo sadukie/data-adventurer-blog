@@ -61,7 +61,7 @@ Jupyter kernels installed: python3, powershell, pysparkkernel, sparkkernel, spar
 
 Now, open a Jupyter notebook in Azure Data Studio. Click the dropdown next to kernel, and you should see the R kernel in the list:
 
-![Screenshot of the Kernel dropdown in a Jupyter notebook in Azure Data Studio](/assets/images/posts/2021-10-13/azure-data-studio-kernel-list.png)
+![Screenshot of the Kernel dropdown in a Jupyter notebook in Azure Data Studio]({{site.baseurl}}/assets/images/posts/2021-10-13/azure-data-studio-kernel-list.png)
 
 The Azure Data Studio Kernel dropdown – including the R kernel
 And now I’m back off to DataCamp and working through some of their R courses!
