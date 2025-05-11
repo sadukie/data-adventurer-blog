@@ -2,9 +2,7 @@
 title: Getting an R Jupyter Kernel in Azure Data Studio
 ---
 
-Over the years, I’ve been hooked on Jupyter Notebooks. I’ve spoken on Azure Notebooks (rest in peace), and have had a lot of fun writing data curriculum using Python notebooks in Azure Data Studio. Now that I’m back to working for myself, I’m taking time to get more learning in and resharpen some of my skills I haven’t used in awhile.
-
-I’m going through some R courses on [DataCamp](https://www.datacamp.com/join-me/MjA1OTE5MQ==), and I wanted to take notes in Azure Data Studio. However, by default, the only R support in Azure Data Studio for notebooks is the Spark | R kernel. This wants a connection to the cloud. That’s not what I need. However, I got it working with R on my machine. Here’s how I did it!
+Over the years, I've been hooked on Jupyter Notebooks. I've spoken on Azure Notebooks (rest in peace), and have had a lot of fun writing data curriculum using Python notebooks in Azure Data Studio. Now that I'm back to working for myself, I'm taking time to get more learning in and resharpen some of my skills I haven't used in awhile.
 
 ## Installed Tools
 
@@ -17,7 +15,7 @@ On my machine, I have the following tools installed:
 
 ## Checking Jupyter Kernels
 
-I installed JupyterLab specifically because I didn’t see any Jupyter kernel information in the settings in Azure Data Studio. Once I installed JupyterLab, I now had access to the jupyter commands.
+I installed JupyterLab specifically because I didn't see any Jupyter kernel information in the settings in Azure Data Studio. Once I installed JupyterLab, I now had access to the jupyter commands.
 
 To check which kernels are installed, run the following command:
 
@@ -30,7 +28,7 @@ Available kernels: python3, powershell, pysparkkernel, sparkkernel, and sparkrke
 Jupyter kernels installed: python3, powershell, pysparkkernel, sparkkernel, sparkrkernel
 ```
 
-I was frustrated that there wasn’t a simple R kernel for me to work with locally. But wait… there’s hope.
+I was frustrated that there wasn't a simple R kernel for me to work with locally. But wait… there's hope.
 
 ## Installing the R Jupyter Kernel
 
@@ -64,4 +62,4 @@ Now, open a Jupyter notebook in Azure Data Studio. Click the dropdown next to ke
 ![Screenshot of the Kernel dropdown in a Jupyter notebook in Azure Data Studio]({{site.baseurl}}/assets/images/posts/2021-10-13/azure-data-studio-kernel-list.png)
 
 The Azure Data Studio Kernel dropdown – including the R kernel
-And now I’m back off to DataCamp and working through some of their R courses!
+And now I'm back off to DataCamp and working through some of their R courses!
