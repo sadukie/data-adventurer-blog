@@ -4,6 +4,8 @@ title: Getting an R Jupyter Kernel in Azure Data Studio
 
 Over the years, I've been hooked on Jupyter Notebooks. I've spoken on Azure Notebooks (rest in peace), and have had a lot of fun writing data curriculum using Python notebooks in Azure Data Studio. Now that I'm back to working for myself, I'm taking time to get more learning in and resharpen some of my skills I haven't used in awhile.
 
+I'm going through some R courses on DataCamp, and I wanted to take notes in Azure Data Studio. However, by default, the only R support in Azure Data Studio for notebooks is the `Spark | R` kernel. This wants a connection to the cloud. That's not what I need. However, I got it working with R on my machine. Here's how I did it!
+
 ## Installed Tools
 
 On my machine, I have the following tools installed:
