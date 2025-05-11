@@ -12,7 +12,7 @@ My kernel dropdown is back to the default kernels:
 
 ![Azure Data Studio with the default kernels list]({{site.baseurl}}/assets/images/posts/2021-10-13/ads-kernels-default-list.png)
 
-**Default Azure Data Studio kernels**: SQL, PySpark, Spark | Scala, Spark | R, Python 3, and PowerShell
+**Default Azure Data Studio kernels**: SQL, PySpark, `Spark | Scala`, `Spark | R`, Python 3, and PowerShell
 
 Where did my R go?
 
