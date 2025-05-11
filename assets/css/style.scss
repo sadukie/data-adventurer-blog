@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+th {
+    font-weight: bold;
+    background-color: dodgerblue;
+    color: lemonchiffon;
+}
+
+th, td {
+    border: 1px solid dodgerblue;
+    padding: 5px;
+}

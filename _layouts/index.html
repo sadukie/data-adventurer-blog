@@ -23,8 +23,9 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-          {{ content }}
           {% include posts.html posts=site.posts %}
+          <hr />
+          {{ content }}
         </section>
 
         <aside id="sidebar">
