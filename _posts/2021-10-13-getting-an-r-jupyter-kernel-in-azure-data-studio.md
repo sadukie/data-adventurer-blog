@@ -1,5 +1,6 @@
 ---
 title: Getting an R Jupyter Kernel in Azure Data Studio
+tags: azure-data-studio r jupyter-notebooks
 ---
 
 Over the years, I've been hooked on Jupyter Notebooks. I've spoken on Azure Notebooks (rest in peace), and have had a lot of fun writing data curriculum using Python notebooks in Azure Data Studio. Now that I'm back to working for myself, I'm taking time to get more learning in and resharpen some of my skills I haven't used in awhile.

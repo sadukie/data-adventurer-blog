@@ -1,5 +1,6 @@
 ---
 title: User Group and Conference Talk Topics for 2022
+tags: conference-talks user-groups
 ---
 
 During CodeMash 2022, I caught a session about the trouble in retaining women in tech, especially in the 35 and older crowd. That is my age group – I look forward to embracing the answer to the ultimate question of life, the universe, and everything this year. After CodeMash, I caught lunch with some tech event organizer friends, and we noted how there aren’t a lot of women presenting on technical topics. So my goal for 2022 is to be focusing on technical topics. These are some of the topics I want to present throughout this year.

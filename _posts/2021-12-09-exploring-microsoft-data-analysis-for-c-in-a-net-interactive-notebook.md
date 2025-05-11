@@ -1,5 +1,6 @@
 ---
 title: "Exploring Microsoft.Data.Analysis for C# in a .NET Interactive Notebook"
+tags: data-analysis microsoft-data-analysis csharp
 ---
 
 I have a thing for Python and pandas when it comes to data analysis. However, my friend Matt Groves is coordinating [CSAdvent](https://csadvent.christmas).  So in sticking with the C# theme, I’m seeing what’s out there for data analysis in the C# space. I came across [this blog post on the .NET blog that introduced a DataFrame](https://devblogs.microsoft.com/dotnet/an-introduction-to-dataframe/) and decided to explore this more. `Microsoft.Data.Analysis` is available on the NuGet Gallery: [NuGet Gallery - Microsoft.Data.Analysis 0.19.0](https://www.nuget.org/packages/Microsoft.Data.Analysis/)!
