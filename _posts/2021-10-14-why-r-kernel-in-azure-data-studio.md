@@ -1,5 +1,6 @@
 ---
 title: Why R Kernel in Azure Data Studio
+tags: azure-data-studio r jupyter-notebooks
 ---
 
 Yesterday, I posted about [getting the R kernel in Azure Data Studio]({{site.baseurl}}/2021/10/13/getting-an-r-jupyter-kernel-in-azure-data-studio). However, I didn’t explain the “why”. Let’s talk about that.

@@ -1,5 +1,6 @@
 ---
 title: "A Gift for Learning to Use C# with Azure"
+tags: cs-advent
 ---
 
 I recently found out at the last minute that [the C# Advent Calendar](https://csadvent.christmas) was missing some gifts, and so I volunteered to bring on another. I will come back to my Gremlin posts and talk about filtering, aggregating, and sorting later. That deviates from C#. Instead, I want to introduce you to a gift I was shown these past couple months that I don’t think everyone knows about.

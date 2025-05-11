@@ -1,5 +1,6 @@
 ---
 title: Buggy Kernels List in Azure Data Studio
+tags: azure-data-studio r jupyter-notebooks
 ---
 
 This is a follow-up to [Getting an R Jupyter Kernel in Azure Data Studio]({{site.baseurl}}/2021/10/13/getting-an-r-jupyer-kernel-in-azure-data-studio). After getting the R kernel set, I was able to see the R kernel in my dropdown for an existing notebook. However, things are weird for a new notebook. Let's take a look at what I'm doing.

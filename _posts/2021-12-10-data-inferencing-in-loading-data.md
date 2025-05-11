@@ -1,5 +1,6 @@
 ---
 title: Data Inferencing in Loading Data
+tags: microsoft-data-analysis data-handling
 ---
 
 Yesterday, while tinkering with `Microsoft.Data.Analysis` and exploring their GitHub repo, I saw [an issue where a seemingly correct CSV file wasn’t loading](https://github.com/dotnet/machinelearning/issues/5884). Having worked with data tools and with programming languages most of my career, my initial suspicion was **data inferencing**. So let’s talk about how I got there and why.

@@ -1,6 +1,7 @@
 ---
 title: "Azure Cosmos DB ❤️ PostgreSQL"
 url: '/2022/11/02/azure-cosmos-db-❤%ef%b8%8f-postgresql/'
+tags: azure-cosmos-db postgres citus azure
 ---
 
 When I talk about Azure Cosmos DB, I am usually talking about one of the APIs in the NoSQL realm. I've got a graph database talk that's making its rounds – next up at [.NET Conf 2022](https://www.dotnetconf.net/agenda). For the [Festive Tech Calendar](https://festivetechcalendar.com/) this year, I will be showing their document database by using Azure Cosmos DB for MongoDB. Those are topics for another day. However, today, I want to tell you about Azure Cosmos DB for PostgreSQL.

@@ -1,5 +1,6 @@
 ---
 title: Azure Cosmos DB naming adventures
+tags: azure-cosmos-db
 ---
 
 At Ignite 2022, Azure Cosmos DB had a lot of news – the big one being Azure Cosmos DB for PostgreSQL. The one that others may not have caught was the renaming of the APIs. These are the APIs for Azure Cosmos DB and how they map to old names:

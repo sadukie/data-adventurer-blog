@@ -1,5 +1,6 @@
 ---
 title: Where is my Azure Cosmos DB Free Trial account?
+tags: azure-cosmos-db azure
 ---
 
 So you’ve signed up for the Azure Cosmos DB Free Trial and have an Azure account… but can’t find that free trial? Something to keep in mind about the Azure Cosmos DB Free Trial is that it is a **sandboxed** free trial. Sandboxed resources do not appear where your regular Azure resources appear.

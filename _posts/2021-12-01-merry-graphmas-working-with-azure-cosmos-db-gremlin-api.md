@@ -1,5 +1,6 @@
 ---
 title: "Merry Graphmas: Working with Azure Cosmos DB Gremlin API"
+tags: cs-advent azure-cosmos-db gremlin
 ---
 
 This post is part of the 2021 C# Advent Calendar. Check out the complete line-up at: [C# Advent (csadvent.christmas)](https://csadvent.christmas)

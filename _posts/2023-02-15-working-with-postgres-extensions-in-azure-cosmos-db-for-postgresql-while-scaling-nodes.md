@@ -1,5 +1,6 @@
 ---
 title: Working with Postgres Extensions in Azure Cosmos DB for PostgreSQL while Scaling Nodes
+tags: azure-cosmos-db postgres scalability
 ---
 
 Yesterday, I did a presentation for the [Azure Cosmos DB Global User Group](https://bit.ly/3lhOiE9) on [Azure Cosmos DB for PostgreSQL](https://bit.ly/3InHNJ1). I mentioned in the PostGIS part that I ran into an issue, so I wanted to describe it here.
