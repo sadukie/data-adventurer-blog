@@ -28,7 +28,7 @@ I have created a sample .NET Core Console Application that has a variety of quer
 The resources needed for this include:
 
 - Azure Cosmos DB Gremlin API resource
-- Code from[my graphmas GitHub repo](https://github.com/sadukie/graphmas)
+- Code from [my graphmas GitHub repo](https://github.com/sadukie/graphmas)
 - Python 3
 - Visual Studio Code with C# extensions
 - .NET 6
